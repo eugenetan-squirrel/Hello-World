@@ -1,4 +1,4 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [sample_html_code](projects)
+* [projects](sample_html_code)
